@@ -1,0 +1,110 @@
+final froggerMapList = [
+  {
+    "name": "2cool4u07 (Shaw-noop)",
+    "type": "Bot",
+    "rating": 4.5,
+    "goodReviews": 79.2,
+    "totalScore": 93.2,
+    "satisfaction": 85.2,
+    "isfavourite": true,
+    "image": "assets/sonu.jpg",
+    "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  },
+  {
+    "name": "2cool4u27 (Suntalaa)",
+    "type": "Medic",
+    "rating": 3.5,
+    "goodReviews": 93.2,
+    "totalScore": 72.2,
+    "satisfaction": 89.2,
+    "isfavourite": false,
+    "image": "assets/avi.jpg",
+    "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  },
+  {
+    "name": "2cool4u37 (lohsam)",
+    "type": "Support",
+    "rating": 2.5,
+    "goodReviews": 88.2,
+    "totalScore": 93.94,
+    "satisfaction": 78.2,
+    "isfavourite": false,
+    "image": "assets/samir.jpg",
+    "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  },
+  {
+    "name": "2cool4u47 (Bilap)",
+    "type": "Sniper",
+    "rating": 2.5,
+    "goodReviews": 88.2,
+    "totalScore": 93.94,
+    "satisfaction": 78.2,
+    "isfavourite": false,
+    "image": "assets/sandip.jpg",
+    "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  },
+  {
+    "name": "2cool4u67 (Sangam)",
+    "type": "Support",
+    "rating": 4.5,
+    "goodReviews": 85.2,
+    "totalScore": 75.2,
+    "satisfaction": 84.2,
+    "isfavourite": true,
+    "image": "assets/sangam.jpg",
+    "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  },
+  {
+    "name": "2cool4u77 (Babayaga)",
+    "type": "Assulter",
+    "rating": 4.9,
+    "goodReviews": 92.2,
+    "totalScore": 99.2,
+    "satisfaction": 90.2,
+    "isfavourite": true,
+    "image": "assets/simon.jpg",
+    "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  },
+  {
+    "name": "2cool4u97 (AARUN)",
+    "type": "Entry Fagger",
+    "rating": 3.5,
+    "goodReviews": 72.2,
+    "totalScore": 75.2,
+    "satisfaction": 84.2,
+    "isfavourite": true,
+    "image": "assets/aarun.jpg",
+    "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  },
+  {
+    "name": "2cool4u99 (Subodh)",
+    "type": "Entry Fagger",
+    "rating": 3.5,
+    "goodReviews": 72.2,
+    "totalScore": 75.2,
+    "satisfaction": 84.2,
+    "isfavourite": true,
+    "image": "assets/subodh.jpg",
+    "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  },
+  {
+    "name": "2cool4u747 (AK47MJ)",
+    "type": "Entry Fagger",
+    "rating": 3.5,
+    "goodReviews": 72.2,
+    "totalScore": 75.2,
+    "satisfaction": 84.2,
+    "isfavourite": true,
+    "image": "assets/akhi.jpg",
+    "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  }
+];
